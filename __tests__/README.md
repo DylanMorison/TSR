@@ -3,3 +3,15 @@
 ### Unit Tests:
 
 Tests one piece of code (usually one function)
+
+### Integration Tests:
+
+Tests how multiple units work together
+
+### Acceptance / End-to-end (E2E) Tests:
+
+Uses actual browser and connections to server
+
+### Functional Tests:
+
+Can be any of the above tests, except with a focus on user flow
