@@ -1,5 +1,6 @@
 import React from "react";
-import Header from "./components/header/index";
+import Header from "./components/header/Header";
+
 import "./app.scss";
 
 const App: React.FC = () => {
