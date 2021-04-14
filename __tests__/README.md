@@ -21,3 +21,9 @@ In general,
 - Functional tests == testing behavior and user experience
 
 ### But what about _snapshot testing_?
+
+- snapshot testing is a way to "freeze" a component
+- tests fail if there are any changes
+- downsides of snapshot testing?
+  -Very brittle
+  -no TDD
