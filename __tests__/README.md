@@ -14,4 +14,8 @@ Uses actual browser and connections to server
 
 ### Functional Tests:
 
-Can be any of the above tests, except with a focus on user flow
+Can be any of the above tests, except with a focus on user flow.
+In general,
+
+- code based tests == testing implementation
+- Functional tests == testing behavior and user experience
