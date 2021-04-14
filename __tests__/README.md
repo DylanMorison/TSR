@@ -22,8 +22,14 @@ In general,
 
 ### But what about _snapshot testing_?
 
-- snapshot testing is a way to "freeze" a component
-- tests fail if there are any changes
-- downsides of snapshot testing?
-  -Very brittle
-  -no test driven development
+<ul>
+<li>snapshot testing is a way to "freeze" a component</li>
+<li>tests fail if there are any changes</li>
+<li><strong>downsides</strong> of snapshot testing?</li>
+<ul>
+<li>Very brittle</li>
+<li>no test driven development</li>
+</ul>
+</li>
+<li>Fourth item</li>
+</ul>
