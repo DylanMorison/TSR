@@ -26,4 +26,4 @@ In general,
 - tests fail if there are any changes
 - downsides of snapshot testing?
   -Very brittle
-  -no TDD
+  -no test driven development
