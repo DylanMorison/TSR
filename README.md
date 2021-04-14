@@ -1,6 +1,6 @@
 # Udemy Testing Course With Typescript, React, Redux, Enzyme, and Jest
 
-This project was bootstrapped with [Create React App --Template Typescript](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App --template typescript](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
