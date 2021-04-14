@@ -1,9 +1,11 @@
 import React from "react";
+import Header from "./components/header/index";
+import "./app.scss";
 
 const App: React.FC = () => {
 	return (
 		<div className="App" style={{ fontFamily: "monospace" }}>
-			test
+			<Header />
 		</div>
 	);
 };
