@@ -31,5 +31,4 @@ In general,
 <li>no test driven development</li>
 </ul>
 </li>
-<li>Fourth item</li>
 </ul>
