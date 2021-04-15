@@ -32,3 +32,16 @@ In general,
 </ul>
 </li>
 </ul>
+
+## Course Notes
+
+### What is a mock function?
+
+<ul>
+<li>Fake function that runs instead of real function</li>
+<ul>
+<li>Can run alternate code, or just act as placeholder</li>
+</ul>
+<li>Jest replaces real function with mock func</li>
+
+<ul>
