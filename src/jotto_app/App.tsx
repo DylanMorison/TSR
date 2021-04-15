@@ -5,7 +5,7 @@ import "./App.css";
 
 const App = () => {
 	return (
-		<div>
+		<div data-test="component-app">
 			<h1>Jotto</h1>
 			<Congrats success={true} />
 			<GuessedWords guessedWords={[{ guessedWord: "train", letterMatchCount: 3 }]} />
