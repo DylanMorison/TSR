@@ -1,4 +1,5 @@
 import React from "react";
+import GuessedWords from "./GuessedWords";
 
 const App = () => {
 	return (
